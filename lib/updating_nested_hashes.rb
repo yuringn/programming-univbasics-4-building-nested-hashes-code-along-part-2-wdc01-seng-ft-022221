@@ -72,3 +72,4 @@ def add_characters
    # After your code, the following line will return the altered hash
    p epic_tragedy
 end
+add_characters
